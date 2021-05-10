@@ -1,0 +1,130 @@
+plugins {
+    id 'org.jbake.site' version '1.2.0'
+}
+
+ext {
+    pageTitles = [
+            untitled                      : '',
+            "index.md"                    : '',
+            "1x1/dot.md"                  : '',
+            "1x1/japanisch.md"            : '',
+            "1x1/unix_tut.md"             : '',
+            "1x1/latex_tut.md"            : '',
+            "1x1/ssh.md"                  : '',
+            "1x1/Python_tut.md"           : '',
+            "1x1/ipa.md"                  : '',
+            "1x1/drucken.md"              : '',
+            "1x1/latex.md"                : '',
+            "1x1/Python.md"               : '',
+            "1x1/r.md"                    : '',
+            "1x1/unix.md"                 : '',
+            "about/about.md"              : '',
+            "about/composition.md"        : '',
+            "about/contact.md"            : '',
+            "about/news.md"               : '',
+            "home/ehemalig.md"            : '',
+            "home/erstis.md"              : '',
+            "home/erstis_en.md"           : '',
+            "useful/life_at_university.md": '',
+            "useful/linksbooks.md"        : '',
+            "useful/useful.md"            : '',
+            "useful/vorlesungen.md"       : '',
+            "useful/was_ist_coli.md"      : ''
+    ]
+}
+
+jbake {
+    srcDirName = relativePath("$buildDir/generatedContent")
+    destDirName = 'site'
+    configuration['site.host'] = 'http://www.coli.uni-saarland.de/fs-coli/'
+    configuration['render.tags'] = false
+    configuration['render.index'] = false
+    configuration['render.sitemap'] = true
+    configuration['render.feed'] = false
+    configuration['render.archive'] = false
+    configuration['markdown.extensions'] = 'ALL'
+}
+
+
+task generatePageTitles(type: GeneratePageTitles) {
+    destDir = file("$buildDir/generatedPageTitles")
+}
+
+
+task processProtocols {
+    def indexFile = new File("$projectDir/src/site/markdown/protokolle/index.md")
+    indexFile.text = "Auf dieser Seite werden (in unregelmäßigen Abständen) die Protokolle der Sitzungen des Fachschaftsrats veröffentlicht.\n"
+    doLast {
+        FileTree dirTree = fileTree(dir: 'src/site/markdown/protokolle')
+        dirTree.exclude 'index.md'
+        dirTree.sort{ it.name }.reverse().each { File mdFile ->
+            def fileName = mdFile.name - '.md'
+            indexFile.append("* [$fileName](${fileName + '.html'})\n")
+            println fileName
+
+        }
+    }
+}
+
+task processMarkdown(type: Copy) {
+    dependsOn processProtocols
+    dependsOn generatePageTitles
+    into "$buildDir/generatedContent/content"
+    from 'src/site/markdown', {
+        include '**/*.md', '**/*.html'
+        eachFile {
+            def headerFile = file("$generatePageTitles.destDir/${it.path}.txt")
+            headerFile = headerFile.exists() ? headerFile : file("$generatePageTitles.destDir/untitled.txt")
+            filter org.apache.tools.ant.filters.ConcatFilter, prepend: headerFile
+        }
+    }
+    from 'src/site/markdown', {
+        include '**/*.md.vm'
+        rename { it - '.vm' }
+        expand project.properties
+        eachFile {
+            def headerFile = file("$generatePageTitles.destDir/${it.path}.txt")
+            headerFile = headerFile.exists() ? headerFile : file("$generatePageTitles.destDir/untitled.txt")
+            filter org.apache.tools.ant.filters.ConcatFilter, prepend: headerFile
+        }
+    }
+}
+
+task processAssets(type: Copy) {
+    from 'src/site/assets'
+    into "$buildDir/generatedContent/assets"
+}
+
+task processTemplates(type: Copy) {
+    from 'src/site/templates'
+    into "$buildDir/generatedContent/templates"
+}
+
+bake {
+    dependsOn processProtocols, processMarkdown, processAssets, processTemplates
+}
+
+assemble {
+    dependsOn bake
+}
+
+class GeneratePageTitles extends DefaultTask {
+
+    @OutputDirectory
+    File destDir
+
+    @TaskAction
+    void generate() {
+        project.pageTitles.each { mdFile, title ->
+            def destPath = project.file("$destDir/$mdFile")
+            destPath.parentFile.mkdirs()
+            project.file("${destPath}.txt").withWriter { writer ->
+                writer.println "title=$title"
+                writer.println "type=page"
+                writer.println "status=published"
+                writer.println "~~~~~~"
+            }
+        }
+    }
+}
+

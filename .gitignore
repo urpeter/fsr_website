@@ -1,0 +1,12 @@
+# Gradle
+.gradle/
+build/
+
+# IDEA
+.idea/
+*.iml
+
+# OSX
+.DS_Store
+
+src/site/markdown/protokolle/index.md
