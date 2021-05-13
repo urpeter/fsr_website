@@ -73,5 +73,5 @@ Die Homepage des SFB ist [**http://www.sfb1102.uni-saarland.de**](http://www.sfb
 * * *
 
 Diese Seite basiert auf der CoLi [**Informationswebpage**](http://www.coli.uni-sb.de/~hansu/schulinfo.html) von Herrn Professor Uszkoreit.  
-(Neu zusammengestellt von [**Ruth Kusterer**](http://www.ruthless.zathras.de), aktualisiert Juni 2002 und Juli 2003 von [**Eric Auer**](http://www.coli.uni-sb.de/~eric). Übernommen und aktualisiert Mai 2008 von **Marc Schulder**. Aufbereitet (aber nicht aktualisiert) für die Fachschaftshomepage von **Christophe Biwer** (August 2015).
+(Neu zusammengestellt von [**Ruth Kusterer**](http://www.ruthless.zathras.de), aktualisiert Juni 2002 und Juli 2003 von [**Eric Auer**](https://www.auersoft.eu/). Übernommen und aktualisiert Mai 2008 von **Marc Schulder**. Aufbereitet (aber nicht aktualisiert) für die Fachschaftshomepage von **Christophe Biwer** (August 2015).
 Überarbeitet und aktualisiert von **Christine Schäfer**, **Sophie Henning** und **Urs Peter** (Februar 2017) 

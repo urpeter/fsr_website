@@ -1,8 +1,8 @@
 Bei der Universität des Saarlandes handelt es sich um eine Campus-Uni - d.h. alles, was man für den Studi-Alltag benötigt, von Lehrveranstaltungen, Sportkursen, Cafés und 'Restaurants', Banken, Friseur,
-findet sich im kleinen Umkreis auf dem ehemaligen Kasernengelände. Einen Lageplan findet ihr [hier](http://www.uni-saarland.de/fileadmin/user_upload/Footer/lageplan/saarbruecken.pdf).
+findet sich im kleinen Umkreis auf dem ehemaligen Kasernengelände. Einen Lageplan findet ihr [hier](https://www.uni-saarland.de/fileadmin/upload/footer/lageplan/saarbruecken.pdf).
 
 ## Essen 
-Die offiziellen Informationen zur Gastronomie auf dem Campus gibt es [hier](http://www.uni-saarland.de/campus/service-und-kultur/gastronomieaufdemcampus.html).
+Die offiziellen Informationen zur Gastronomie auf dem Campus gibt es [hier](https://www.uni-saarland.de/studium/campus/essen.html).
 
 ### Mensa 
 Das [Kunstwerk](http://www.studentenwerk-saarland.de/de/Essen/Essen-in-Saarbrucken/Mensa-Kunst) in Gebäude D4.1 auf dem 'Mensaberg' füllt sich zur Mittagszeit (von halb 12 bis 15 Uhr)
@@ -17,7 +17,11 @@ Smartphone gibt es auch [eine App für iOS](https://itunes.apple.com/de/app/mens
 
 ### 'Sportlermensa' (Sportlertreff der Hermann Neuberger Sportschule) 
 Eine echte Alternative zu 'unserer' Mensa! Einen kurzen Spaziergang vom Uni-Campus entfernt auf dem Gelände der Sportschule gelegen,
-bietet sie Sterneküche für hart trainierende Spitzensportler. Die Preise sind zwar deutlich höher, dafür bekommt man aber auch etwas sehr leckeres. [Hier gibt es den aktuellen Speiseplan](http://www.lsvs.de/fileadmin/user_upload/LSVS/Sportschule/Speiseplan/Speiseplan_neu/Wochen_Speiseplan.pdf).
+bietet sie Sterneküche für hart trainierende Spitzensportler. Die Preise sind zwar deutlich höher, dafür bekommt man aber auch etwas sehr leckeres. [Hier geht es zur Website des 'Sportlertreffs'](https://www.lsvs.de/hermann-neuberger-sportschule/sportlertreff).
+<!---
+Resulted in a 404 error (May 2021): added link to website instead
+[Hier gibt es den aktuellen Speiseplan](http://www.lsvs.de/fileadmin/user_upload/LSVS/Sportschule/Speiseplan/Speiseplan_neu/Wochen_Speiseplan.pdf).
+-->
 
 ### Philo-Café
 Orientalischer Flair dank liebevoller iranischer Küche; wechselnder Speiseplan die ganze Woche lang, und den wohl besten Kaffee auf dem Campus. Abgesehen davon haben sie eine große Auswahl an vegetarischen und veganen, sowie halal-zubereiteten Gerichten! Mehr Informationen und den aktuellen Speiseplan gibt es [hier](https://www.facebook.com/Philo-cafe-411972345618274/)
@@ -60,15 +64,15 @@ Jedes Semester bietet der AStA wöchentliche Kinovorstellungen im Audimax an. [H
 Im Canossa finden hin und wieder gesellige Zusammenkommen unter dem Motto eines einzelnen Landes statt. 
 
 ### Ausflüge 
-Das ZiS ([Zentrum für Internationale Studierende](http://www.uni-saarland.de/global/welcome-center/interkulturelles-angebot/zis.html)) organisiert viele Stadtbesichtigungen und andere Exkursionen für ausländische Studenten, aber auch alle anderen, die daran interessiert sind, das Saarland und die nähere Umgebung sowie neue Leute kennen zu lernen, dürfen natürlich mit! [Hier](http://www.uni-saarland.de/nc/global/welcome-center/interkulturelles-angebot/kalender.html) gibt's den aktuellen Event-Kalender.
+Das ZiS ([Zentrum für Internationale Studierende](https://www.uni-saarland.de/global/welcome-center/interkulturelles-angebot/zis.html)) organisiert viele Stadtbesichtigungen und andere Exkursionen für ausländische Studenten, aber auch alle anderen, die daran interessiert sind, das Saarland und die nähere Umgebung sowie neue Leute kennen zu lernen, dürfen natürlich mit! [Hier](https://www.uni-saarland.de/global/welcome-center/interkulturelles-angebot/kalender.html) gibt's den aktuellen Event-Kalender.
 
 ### Hochschulsport 
-Wer sich ein bisschen Ausgleich zur Bib gönnen mag, kann dies mit dem sehr umfangreichen Angebot des Hochschulsports. Neben bezahlbaren Kursen gibt es auch offene Sportangebote, die sich Group Fitness nennen und ohne Anmeldung besucht werden können. [Hier](http://www.uni-saarland.de/einrichtung/hochschulsport/start.html) ist die Seite des Hochschulsports.
+Wer sich ein bisschen Ausgleich zur Bib gönnen mag, kann dies mit dem sehr umfangreichen Angebot des Hochschulsports. Neben bezahlbaren Kursen gibt es auch offene Sportangebote, die sich Group Fitness nennen und ohne Anmeldung besucht werden können. [Hier](https://www.uni-saarland.de/einrichtung/hochschulsport.html) ist die Seite des Hochschulsports.
 
 ### UniFit 
-Das UniFit ist ein kleiner aber sehr angenehmer Fitnessclub auf dem eher Wert auf Gerätetraining zur Kräftigung einzelner Muskelgruppen sowie Ausdauer gelegt wird. [Hier](http://www.uni-saarland.de/einrichtung/hochschulsport/unifit.html) gibt es mehr Informationen inkl Öffnungszeiten. Daneben werden auch viele Kurse des Hochschulsports in einem separaten Raum des UniFit angeboten.
+Das UniFit ist ein kleiner aber sehr angenehmer Fitnessclub auf dem eher Wert auf Gerätetraining zur Kräftigung einzelner Muskelgruppen sowie Ausdauer gelegt wird. [Hier](https://www.uni-saarland.de/einrichtung/hochschulsport/unifit.html) gibt es mehr Informationen inkl Öffnungszeiten. Daneben werden auch viele Kurse des Hochschulsports in einem separaten Raum des UniFit angeboten.
 
 ### Theater 
-Es gibt mehrere Theatergruppen, die in unterschiedlichen Sprachen aufführen und die sich freuen, wenn ihr euch einbringen mögt: [ThUniS](http://thunis-uni.de/) (deutsch), [ACT](http://act-saarland.com/) (englisch), [Le Pont](https://www.facebook.com/Le-Pont-Franz%C3%B6sisches-Theater-an-der-UdS-221314201212007/) (französisch), [Los Mutantes](http://www.losmutantes.de/) (spanisch)
+Es gibt mehrere Theatergruppen, die in unterschiedlichen Sprachen aufführen und die sich freuen, wenn ihr euch einbringen mögt: [ThUniS](http://thunis-uni.de/) (deutsch), [ACT](http://act-saarland.com/) (englisch), [Le Pont](https://www.facebook.com/Le-Pont-Franz%C3%B6sisches-Theater-an-der-UdS-221314201212007/) (französisch), [Los Mutantes](https://www.losmutantes.de/) (spanisch)
 
 

@@ -39,6 +39,6 @@
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>useful/useful.html">Hilfreiches</a></li>
             </ul>
         </li>
-        <li><a href="https://www.uni-saarland.de/fachrichtung/lst/start.html">Zur Fachrichtung</a></li>
+        <li><a href="https://www.uni-saarland.de/fachrichtung/lst.html">Zur Fachrichtung</a></li>
     </ul>
 </div>

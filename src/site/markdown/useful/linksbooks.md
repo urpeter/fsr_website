@@ -24,19 +24,19 @@
 
 ### Programmiersprachliches
 
-Konsultiere hierzu am Besten auch unsere Infoseiten zu [Python]({filename}/pages/1x1/Python.md), [UNIX]({filename}/pages/1x1/unix.md) und [LaTeX]({filename}/pages/1x1/ipa.md).
+Konsultiere hierzu am Besten auch unsere Infoseiten zu [Python](../1x1/python.html), [UNIX](../1x1/unix.html) und [LaTeX](../1x1/latex.html).
 
 - <a href="https://drive.draw.io/">draw.io</a>: Diagramme erstellen, sehr hilfreich z.B. bei UML-Diagrammen. 
 	
 ### LaTeX
 
-Konsultiere hierzu am Besten auch unsere Infoseiten zu [LaTeX]({filename}/pages/1x1/latex.md).
+Konsultiere hierzu am Besten auch unsere Infoseiten zu [LaTeX](../1x1/latex.html).
 
 - <a href="http://www.cpt.univ-mrs.fr/~masson/latex/Beamer-appearance-cheat-sheet.pdf">Cheat sheet</a> zur LaTeX-Klasse "Beamer" (für Präsentationen)
 
 ### Sprachwissenschaftliches
 
-Konsultiere hierzu am Besten auch unsere Infoseiten zu [IPA]({filename}/pages/1x1/ipa.md). 
+Konsultiere hierzu am Besten auch unsere Infoseiten zu [IPA](../1x1/ipa.html). 
 
 - Interessanter <a href="http://www.linguisten.de/Thread-Diphthonge-und-ihr-Phonemstatus">Forumeintrag</a> zum Thema Affrikate und Diphtonge. 
 - <a href="https://clarin.phonetik.uni-muenchen.de/BASWebServices/#/services/WebMAUSBasic">WebMAUS</a>: ein automatisches Annotierungstool von dem Bavarian Archive for Speech Signals (BAS)
