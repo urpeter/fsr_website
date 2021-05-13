@@ -13,7 +13,7 @@
         </li>
         <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>protokolle/index.html">Fachschaftsprotokolle</a></li>
         <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>home/erstis.html">Erstis 2020/2021</a></li>
-        <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>tagungen/dgfs39.html">Tagungen</a></li>
+        <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>tagungen/tagungen.html">Tagungen</a></li>
         <li class="has-sub"> <a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>">CoLi 1x1</a>
             <ul>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>1x1/ssh.html">SSH & SFTP</a></li>
