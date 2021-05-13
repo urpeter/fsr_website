@@ -37,6 +37,7 @@
                 <#--<li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>useful/was_ist_coli.html">Praktika & Jobs</a></li>-->
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>useful/life_at_university.html">Unileben</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>useful/useful.html">Hilfreiches</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>useful/wifi_and_emails.html">WiFi and emails</a></li>
             </ul>
         </li>
         <li><a href="https://www.uni-saarland.de/fachrichtung/lst/start.html">Zur Fachrichtung</a></li>
