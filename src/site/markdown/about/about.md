@@ -1,3 +1,5 @@
+<a href="about_en.html" class="btn btn-info">English version here</a>
+
 ## Was machen wir?
 
 - ab und zu das "**AllYouCan-Frühstück**" organisieren
