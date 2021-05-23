@@ -29,7 +29,13 @@ ext {
             "useful/linksbooks.md"        : '',
             "useful/useful.md"            : '',
             "useful/vorlesungen.md"       : '',
-            "useful/was_ist_coli.md"      : ''
+            "useful/was_ist_coli.md"      : '',
+            "english/overview_en.md"      : '',
+            "english/about_en.md"         : '',
+            "english/latex_en.md"         : '',
+            "english/latex_tut_en.md"     : '',
+            "english/wifi_and_emails_en.md"  : '',
+            "english/how_to_coli_server.md"  : '',
     ]
 }
 
