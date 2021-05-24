@@ -35,6 +35,7 @@ ext {
             "english/latex_en.md"         : '',
             "english/latex_tut_en.md"     : '',
             "english/wifi_and_emails_en.md"  : '',
+            "english/unix_commands_en.md"  : '',
             "english/how_to_coli_server.md"  : '',
     ]
 }

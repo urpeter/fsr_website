@@ -46,6 +46,7 @@
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>english/overview_en.html">Link collection</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>english/wifi_and_emails.html">Wifi and emails</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>english/latex_en.html">LaTeX</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>english/unix_commands_en.html">Unix commands</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>english/how_to_coli_server.html">How to coli server</a></li>
             </ul>
         </li>
