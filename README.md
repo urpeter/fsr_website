@@ -3,7 +3,7 @@
 
 *Website des Fachschaftsrats der [Fachrichtung Sprachwissenschaft und Sprachtechnologie](https://www.uni-saarland.de/fachrichtung/lst.html) an der [Universität des Saarlandes](https://www.uni-saarland.de/start.html) in Saarbrücken.* / Website of the student council of the [departement of Language Science and Technology](https://www.uni-saarland.de/en/department/lst.html) at the [Saarland University](https://www.uni-saarland.de/en/home.html), Saarbrücken, Germany.
 
-*Aktuelle Website siehe* / Current website at http://www.coli.uni-saarland.de/fs-coli/
+*Aktuelle Website siehe* / Current website at http://www.coli.uni-saarland.de/fs-lst/
 
 Right now (May 2021) the repository is not regulary synced with the servers. Therefore the current website and the github repository might be different.
 
