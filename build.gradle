@@ -43,7 +43,7 @@ ext {
 jbake {
     srcDirName = relativePath("$buildDir/generatedContent")
     destDirName = 'site'
-    configuration['site.host'] = 'http://www.coli.uni-saarland.de/fs-coli/'
+    configuration['site.host'] = 'http://www.coli.uni-saarland.de/fs-lst/'
     configuration['render.tags'] = false
     configuration['render.index'] = false
     configuration['render.sitemap'] = true
