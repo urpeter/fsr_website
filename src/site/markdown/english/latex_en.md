@@ -80,5 +80,7 @@ See for instance [Wikipedia's comparison of TeX editors](https://en.wikipedia.or
 ## Handout
 
 Some general remarks and links can be found in [this handout](../pdf/Handout_eng.pdf). Specifically we would like to highlight the link to [Detexify](https://detexify.kirelabs.org/classify.html), a small web page, which helps you to find the right LaTeX command for various symbols. You can just draw the symbol and Detexify detects automatically which symbol you mean.
- 
+
+## Advanced things
+see [our site about advanced features of LaTeX](latex_advanced.html), including more information about packages relevant for colis, tips and tricks, bibliographies
 
