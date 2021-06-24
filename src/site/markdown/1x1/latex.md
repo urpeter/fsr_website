@@ -68,6 +68,6 @@ der durch eine eingebaute Vorschau sowie Shortcuts für die wichtigsten Befehle 
 viele andere Editoren, die verschiedene Features und Schwerpunkte aufweisen.
 
 ## Handout
-Grundsätzliches zu LaTeX und einige Links findet ihr in diesem [Handout]({filename}/files/latex_Handout.pdf). Besonders hervorzuheben ist der Link zu [Detexify](http://detexify.kirelabs.org/classify.html), ein kleine Webpage, die euch hilft, für verschiedene Symbole den richtigen LaTeX-Befehl zu finden. Ihr könnt dafür das Symbol einfach zeichnen und Detexify erkennt automatisch, was ihr meint.
+Grundsätzliches zu LaTeX und einige Links findet ihr in diesem [Handout](../pdf/Handout.pdf). Besonders hervorzuheben ist der Link zu [Detexify](http://detexify.kirelabs.org/classify.html), ein kleine Webpage, die euch hilft, für verschiedene Symbole den richtigen LaTeX-Befehl zu finden. Ihr könnt dafür das Symbol einfach zeichnen und Detexify erkennt automatisch, was ihr meint.
  
 

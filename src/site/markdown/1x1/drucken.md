@@ -17,7 +17,7 @@ lpr -P roman datei.pdf
 Der Befehl funktioniert natürlich auch für andere Drucker, allerdings solltest du natürlich darauf drucken dürfen und auch Zugang zu dem jeweiligen Raum haben. 
   
 Leider ist das Handbuch zu dem Befehl recht dürftig, weshalb auf folgende Seite verwiesen wird:
-[Command-Line Printing and Options](https://www.cups.org/documentation.php/options.html#OPTIONS)
+[Command-Line Printing and Options](https://www.cups.org/doc/options.html)
   
 Der Drucker im CIP-Pool wird im Übrigen vom Fachschaftsrat mit Papier befüllt. Dieses Papier wird vom Fachschaftsetat finanziert. 
   

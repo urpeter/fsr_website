@@ -6,17 +6,17 @@ Dann hier ein paar Tipps, die dir beim Einleben hilfreich sein könnten:
 
 - **MenSaar**: Die App bietet einfachen Zugriff auf den Speiseplan der Mensa der nächsten Tage.<br> 
 		<center>
-			<a href="https://play.google.com/store/apps/details?id=redfox.android.mensa" target="_blank"><img src="../../images/apps/de_app_rgb_wo_45.png" /></a>  <a href="https://itunes.apple.com/de/app/mensaar/id330761686?mt=8" target="_blank"><img style="width: 130px; height: 45px;" src="../../images/apps/Download_on_the_App_Store_Badge_DE_Source_135x40.svg" /></a>
+			<a href="https://play.google.com/store/apps/details?id=redfox.android.mensa" target="_blank"><img src="images/APPS/de_app_rgb_wo_45.png" /></a>  <a href="https://itunes.apple.com/de/app/mensaar/id330761686?mt=8" target="_blank"><img style="width: 130px; height: 45px;" src="images/APPS/Download_on_the_App_Store_Badge_DE_Source_135x40.svg" /></a>
 	</center>
 		
 - **Uni Saar**: Die App bietet einfachen Zugriff auf die Speisepläne vieler Lokale auf dem Campus, einen Lageplan, Events, News, Mitarbeitersuche und den Busfahrplang inkl. Verspätungen für die vier Haltestellen des Campus. <br>
 		<center>
-			<a href="https://play.google.com/store/apps/details?id=de.unisaarland.UniApp" target="_blank"><img src="../../images/apps/de_app_rgb_wo_45.png"  /></a>  <a href="https://itunes.apple.com/de/app/uni-saar/id736099223?mt=8" target="_blank"><img style="width: 130px; height: 45px;" src="../../images/apps/Download_on_the_App_Store_Badge_DE_Source_135x40.svg" /></a>    
+			<a href="https://play.google.com/store/apps/details?id=de.unisaarland.UniApp" target="_blank"><img src="images/APPS/de_app_rgb_wo_45.png"  /></a>  <a href="https://itunes.apple.com/de/app/uni-saar/id736099223?mt=8" target="_blank"><img style="width: 130px; height: 45px;" src="images/APPS/Download_on_the_App_Store_Badge_DE_Source_135x40.svg" /></a>    
 		</center>
 		
 - **Saarfahrplan**: Die App bietet einfachen Zugriff auf die Fahrpläne des öffentlichen Transportes im Saarland und darüber hinaus. Außerdem werden Verspätungen angezeigt sowie die Möglichkeit, Routen als Favoriten zu speichern, gegeben. <br>
 		<center>
-			<a href="https://play.google.com/store/apps/details?id=de.hafas.android.vgs" target="_blank"><img src="../../images/apps/de_app_rgb_wo_45.png"  /></a>  <a href="https://itunes.apple.com/de/app/saarfahrplan/id574369626?mt=8" target="_blank"><img style="width: 130px; height: 45px;" src="../../images/apps/Download_on_the_App_Store_Badge_DE_Source_135x40.svg" /></a>
+			<a href="https://play.google.com/store/apps/details?id=de.hafas.android.vgs" target="_blank"><img src="images/APPS/de_app_rgb_wo_45.png"  /></a>  <a href="https://itunes.apple.com/de/app/saarfahrplan/id574369626?mt=8" target="_blank"><img style="width: 130px; height: 45px;" src="images/APPS/Download_on_the_App_Store_Badge_DE_Source_135x40.svg" /></a>
 	</center>
 	
 ## Wohnungssuche
@@ -42,7 +42,7 @@ Natürlich ist eine eigene Unterkunft unverzichtbar, und solange du nicht sowies
 
 * Du suchst ein **Wohnheim**?
 
-    * Studentenwohnanlage [Waldhaus](http://www.waldhaus.stud.uni-saarland.de/)
+    * Studentenwohnanlage [Waldhaus](https://waldhaus-sb.de/)
     * Studentenwohnheim [Guckelsberg](http://www.studentenwerk-saarland.de/de/Wohnen/Wohnheime-in-Saarbrucken/Studentenwohnheim-Guckelsberg)
     * Studentenwohnheim [ESG](http://www.waldhausweg7.de/)
     * Weitere Wohnheime findest du auf der Seite des [Studentenwerkes](http://www.studentenwerk-saarland.de/de/Wohnen/Wohnen-im-Wohnheim)
@@ -71,6 +71,6 @@ Endlich geschafft, du stehst in deinen eigenen vier Wänden und hast möglicherw
 
 **Kleine Tipps**: Falls du kein Auto hast, achte darauf den Suchradius dementsprechend einzustellen, damit du nicht nachher etwas findest, was du nicht abholen kannst und dann enttäuscht bist. Außerdem sind Regale in der Hauptumziehzeit (sprich: Semesteranfang) sehr schwer zu ergattern, da heißt es schnell reagieren. Falls du Hilfe beim Transport brauchst, frag doch mal ein Fachschaftsmitglied, am Besten mit einer Flasche Sekt oder einem Kuchen (gerne auch Beides), dann lässt sich sicher etwas machen. ;)
 	
-- In Saarbrücken selbst gibt es auch noch die <a href=" http://www.moebel-fundgrube.de/saarbr.html">Möbelfundgrube</a> und <a href=" https://www.tedox.de/shoplist/index/detail/?id=41">tedox</a>.
+- In Saarbrücken selbst gibt es auch noch die <a href="https://moebel-fundgrube.de/filiale-saarbruecken/">Möbelfundgrube</a> und <a href=" https://www.tedox.de/shoplist/index/detail/?id=41">tedox</a>.
 	
 - In der näheren Umgebung, allerdings am Besten mit Auto zu erreichen, gibt es noch den <a href="http://www.ikea.com/de/de/store/saarlouis">IKEA</a> in Saarlouis oder den <a href="https://www.roller.de/store/Roller%20M%C3%B6bel%20-%20Bous">Roller</a> in Bous.

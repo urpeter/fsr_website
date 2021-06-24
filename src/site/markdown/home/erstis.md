@@ -103,7 +103,7 @@ Die Musterlösung findest du [hier](../pdf/aufgaben_musterloesung.tex)!
 - Insbesondere wenn Du CoLi studieren willst, ist auch die Teilnahme am [Mathematikvorkurs für Informatiker](https://vorkurs.cs.uni-saarland.de/cms/ss18/) empfehlenswert<br>
 	Zwar wird nicht alles, was du in diesem Kurs lernst, im ersten Jahr des Bachelors verlangt, aber du kannst hier schon neue Freundschaften schließen und schnupperst schon ein wenig ins Studentenleben rein. Die Anmeldung lief bis zum 7. September, aber eventuell kann man ja mal nett nachfragen... ;)<br>
 
-- Auch gibt es ein [Mentorenprogramm](http://www.uni-saarland.de/campus/studium/beratung-und-orientierung/mentorenprogramm.html)<br>
+- Auch gibt es ein [Mentorenprogramm](https://www.uni-saarland.de/studieren/mentorenprogramm.html)<br>
 	Hier stehen dir erfahrene Studenten mit Rat und Tat zur Seite und bieten dir Orientierung an der Uni. Die Erfahrung hat uns allerdings auch gezeigt, dass wir als Fachschaftsrat in der Erstiwoche auch eine gute Möglichkeit bieten, Kontakte zu knüpfen und offenen Fragen zu stellen.<br>
 
 

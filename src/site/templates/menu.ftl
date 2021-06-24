@@ -50,6 +50,6 @@
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>english/how_to_coli_server.html">How to coli server</a></li>
             </ul>
         </li>
-        <li><a href="https://www.uni-saarland.de/fachrichtung/lst/start.html">Zur Fachrichtung</a></li>
+        <li><a href="https://www.uni-saarland.de/fachrichtung/lst.html">Zur Fachrichtung</a></li>
     </ul>
 </div>
