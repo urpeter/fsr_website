@@ -60,7 +60,8 @@ On the servers you can navigate through directories using the commands known fro
 #### how do I know which cluster nodes are occupied at the moment and by whom?  
 Using [`ruptime`](https://manpages.ubuntu.com/manpages/xenial/en/man1/ruptime.1.html), [`rwho`](https://manpages.ubuntu.com/manpages/xenial/en/man1/rwho.1.html), [`htop`](https://manpages.ubuntu.com/manpages/xenial/en/man1/htop.1.html):
 
-If you are on a specific cluster node..
+If you are on a specific cluster node...
+
 - `ruptime` will display all cluster nodes, how long they are up, whether they are up/down, the number of users currently logged on and the system load average for the past 1,5, and 15 minutes. Note that a cluster node can have 0 users logged on and still full load (see the `screen` command below for how this can happen).
 - `rwho` will display who is currently logged on. It will display the user name, the cluster node name, the start date and time, and the number of minutes a user's session has been inactive. Users who have been inactive for at least an hour will be omitted unless the `-a` flag is given.
 - `htop` is basically a command line tool to see what processes are running at the moment. (quit by pressing `q` or `F10`)**to do** 
@@ -86,37 +87,23 @@ Third: what was actually asked for: There are multiple ways to do this:
 First of all, check if it is already installed: e.g. there is already a working python installation on the servers (same holds for git).
 Second, **right folder to install** (disk quotas!) <!-- home/CE vs /local ...  -->
 Installing anaconda on jones **to do**
-1. (First time users). Create `username` directories (where username is your coli username) under `/home/CE/` and `/local/`. 
-- Remember you can modify and navigate through the folder structure using the usual Unix commands like `cd`, `ls`, `mkdir` and so on (see also [our site about unix commands](unix_commands_en.html)).
-- Note that your `/home/CE/username` folder will have a 500MB limit (more on [disk qutoas in the coli-wiki](https://wiki.coli.uni-saarland.de/public/DiskUsage)). That's not the right place to install software. Also this will be your home directory (i.e. once this folder is created, you can use `cd ~` to get back to it)
-- The `/local/username` is where you would like your python/anaconda installation to go. <!-- Note that your `/local/username` directory doesn't have this 500MB limit, **todo limit? no backup?** -->
+
+1. (First time users). Create `username` directories (where username is your coli username) under `/home/CE/` and `/local/` on the cluster node. 
+    1. Remember you can modify and navigate through the folder structure using the usual Unix commands like `cd`, `ls`, `mkdir` and so on (see also [our site about unix commands](unix_commands_en.html)).
+    2. Note that your `/home/CE/username` folder will have a 500MB limit (more on [disk qutoas in the coli-wiki](https://wiki.coli.uni-saarland.de/public/DiskUsage)). That's not the right place to install software. Also this will be your home directory (i.e. once this folder is created, you can use `cd ~` to get back to it)
+    3. The `/local/username` is where you would like your python/anaconda installation to go. <!-- Note that your `/local/username` directory doesn't have this 500MB limit, **todo limit? no backup?** -->
 2. Move to your `/local/username` directory (e.g. using `cd`). So check that you are at `username@clusternode:/local/username`
 3. Optional: create a `temp` folder under it and move to it (to not have it clutter your top-level directory)
-4. You can install anaconda using a bash script downloadable from the [Anaconda website](https://www.anaconda.com/products/individual), the Linux installer <!--64-Bit (x86) Installer-->.  **to do** 
-<!-- 
-e.g. `wget https://repo.anaconda.com/archive/Anaconda3-2021.05-Linux-x86_64.sh`
-5. Install with
-```bash
-bash Anaconda3-2021.05-Linux-x86_64.sh
-```
+4. You can install anaconda using a bash script downloadable from the [Anaconda website](https://www.anaconda.com/products/individual), the Linux installer **to do**  
+5. After successfull download, run the bash script: **to do**  
 6. Keep pressing ENTER to go through the License Agreement after this:
-> In order to continue the installation process, please review the license agreement. Please, press ENTER to continue
-7. When the following prompt appears, specify your installation location as followed:
-> Anaconda3 will now be installed into this location:
-> /home/CE/username/anaconda3 <-- should NOT go there
-> 
-> Press ENTER to confirm the location
-> Press CTRL-C to abort the installation
-> Or specify a different location below <-- DO THIS
-> [/home/CE/username/anaconda3] >>> /local/username/anaconda3
-8. Activate your installation by: `source ~/.bashrc`
-9. Test if worked **to do** conda activate?  conda info --env  ?
--->
-
+*"In order to continue the installation process, please review the license agreement. Please, press ENTER to continue"*
+7. Change the installation location as follows: **to do**  
+8. Activate your installation by: `source ~/.bashrc`  **to do**
+9. Test whether it worked **to do**
 
 #### do I have to keep the terminal open until my computations are done?  
 Not if you are using `screen`: 
-<!-- ([Wikipedia](https://en.wikipedia.org/wiki/GNU_Screen)) --->
 see [coli-wiki: working from home](https://wiki.coli.uni-saarland.de/public/Working_from_home) and [the very detailed manual for `screen`](https://www.gnu.org/software/screen/manual/screen.html). 
 Here are just some basic commands:  
 
@@ -153,7 +140,7 @@ unset http_proxy
 ```
 --> 
 - check out the [coli-wiki](https://wiki.coli.uni-saarland.de/wiki/index.php/User_Doc) (use the university VPN to access the full documentation!): there are also some sites for how to use some special programmes (e.g. Docker, gradle...).
-- corpora available under `proj/corpora`: [coli-wiki:corpora](https://wiki.coli.uni-saarland.de/wiki/index.php/User_Doc/Corpora)
+- corpora available under `/proj/corpora`: [coli-wiki:corpora](https://wiki.coli.uni-saarland.de/wiki/index.php/User_Doc/Corpora)
 - about `https_proxy` and `http_proxy`: **to do**
 
 
